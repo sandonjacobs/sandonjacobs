@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on Java/Scala/Kotlin, Kafka, stream processsing, gitops...
+- 🌱 I’m currently learning new javascript frameworks, clojure...
+- 👯 I’m looking to collaborate on gitops, testing frameworks, kafka gitops...
+- 📫 How to reach me: twitter.com/SandonCodes, https://sandonleejacobs.medium.com/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 🏌️‍♂️ GOLF Nut, 👨‍👧‍👧 #GirlDad, 🏀 #GoTarHeels
+
 <!--
 **sandonjacobs/sandonjacobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
